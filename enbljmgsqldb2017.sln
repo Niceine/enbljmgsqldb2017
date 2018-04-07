@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "enbljmgsqldb2017", "enbljmgsqldb2017\enbljmgsqldb2017.sqlproj", "{3E427A64-BE3C-44FF-964C-09FB97F21B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E427A64-BE3C-44FF-964C-09FB97F21B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E427A64-BE3C-44FF-964C-09FB97F21B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E427A64-BE3C-44FF-964C-09FB97F21B57}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3E427A64-BE3C-44FF-964C-09FB97F21B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E427A64-BE3C-44FF-964C-09FB97F21B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E427A64-BE3C-44FF-964C-09FB97F21B57}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CCF432C-7A8D-4365-8818-C56D3FF2D13B}
+	EndGlobalSection
+EndGlobal
